@@ -1,0 +1,21 @@
+{
+  "name": "language-d",
+  "version": "0.1.0",
+  "description": "D language support for Atom.",
+  "keywords": [
+    "dlang",
+    "d"
+  ],
+  "repository": "https://github.com/paysonwallach/atom-language-d",
+  "license": " Hippocratic-2.1",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
+}
